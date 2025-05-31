@@ -42,10 +42,6 @@
 
 ###
 
-<img align="right" height="400" src="https://i.postimg.cc/cLRg7QSR/Whats-App-Image-2025-05-31-at-20-58-27-c93af637.jpg"  />
-
-###
-
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=sahelrahimof&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahelrahimof&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
