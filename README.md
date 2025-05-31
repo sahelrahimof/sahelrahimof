@@ -44,12 +44,12 @@
 
 ###
 
-<img align="right" height="300" src="https://i.postimg.cc/cLRg7QSR/Whats-App-Image-2025-05-31-at-20-58-27-c93af637.jpg"  />
+<img align="right" height="500" src="https://i.postimg.cc/cLRg7QSR/Whats-App-Image-2025-05-31-at-20-58-27-c93af637.jpg"  />
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sahelrahimof&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 </div>
 
 ###
